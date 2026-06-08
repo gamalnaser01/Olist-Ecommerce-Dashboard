@@ -100,15 +100,15 @@ The following data preparation steps were performed:
 
 ## Dashboard Preview
 
-Dashboard
+Dashboard.png
 
 ## Financial KPIs
-KPI
+KPI.png
 
 
 ## Charts
 
-Analytics_Charts
+Analytics_Charts.png
 
 
 
