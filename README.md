@@ -100,7 +100,7 @@ The following data preparation steps were performed:
 
 ## Dashboard Preview
 
-![Dashboard](Screenshots/Dashboard.png)
+![Dashboard](Dashboard.png)
 
 ## Financial KPIs
 KPI.png
