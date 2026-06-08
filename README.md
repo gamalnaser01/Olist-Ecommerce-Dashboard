@@ -67,9 +67,7 @@ The following data preparation steps were performed:
 
 ### Operational KPIs
 
-- Delivered Orders %
-- Pending Orders %
-- Canceled Orders %
+
 - Average Delay in Days
 - Average Delay for Late Orders
 
@@ -94,13 +92,23 @@ The following data preparation steps were performed:
 - Revenue Forecasting
 
 ### Interactive Filters
-- Order Status
+- Order Status Group
 - Payment Type
 - Date Range
 
 ---
 
 ## Dashboard Preview
+
+Dashboard
+
+## Financial KPIs
+KPI
+
+
+## Charts
+
+Analytics_Charts
 
 
 
