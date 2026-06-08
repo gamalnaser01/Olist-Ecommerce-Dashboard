@@ -103,12 +103,12 @@ The following data preparation steps were performed:
 ![Dashboard](Dashboard.png)
 
 ## Financial KPIs
-KPI.png
+[Financial KPIs](KPI.png)
 
 
 ## Charts
 
-Analytics_Charts.png
+[Charts](Analytics_Charts.png)
 
 
 
